@@ -1,2 +1,2 @@
 # daily-goals
-I just use this program to write down my goals for the day and sort of guide my activites throughout the day.
+I am going to turn this into a calendar where one can organize their time each day and keep a To-Do list for each day. 
